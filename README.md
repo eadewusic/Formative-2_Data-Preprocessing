@@ -16,7 +16,7 @@ We are working with two real-world datasets that contain overlapping but differe
 
 ## Report and Video
 - **Report**: The detailed workflow, challenges, and team contributions are documented in `Summary_Report.pdf`.
-- **Video Walkthrough**: The link to the video is provided in _.
+- **Video Walkthrough**: The link to the video is provided here https://youtu.be/6AM59Pw5AsQ 
 
 ## How to Run
 ### Clone the Repository
@@ -36,8 +36,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## View the Outputs
 The final datasets are saved in the `final_datasets` folder:
 - `customer_transactions_augmented.csv` (Augmented dataset)
-- `final_customer_data_[groupNumber].csv` (Merged dataset)
-- `final_dataset_ready_[groupNumber].csv` (Fully preprocessed dataset)
+- `final_customer_data_group18.csv` (Merged dataset)
+- `final_dataset_ready_group18.csv` (Fully preprocessed dataset)
 
 ## Contributions
 - **Eunice Adewusi**: Performed data augmentation and handled missing values (Part 1).
