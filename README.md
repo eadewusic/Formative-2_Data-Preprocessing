@@ -15,7 +15,7 @@ We are working with two real-world datasets that contain overlapping but differe
    - Feature selection algorithm (SelectKBest) was applied to identify the top 10 features for machine learning.
 
 ## Report and Video
-- **Report**: The detailed workflow, challenges, and team contributions are documented in `Summary_Report.pdf`.
+- **Report**: The detailed workflow, challenges, and team contributions are documented in `Group 18 Summary Report.pdf`.
 - **Video Walkthrough**: The link to the video is provided here https://youtu.be/6AM59Pw5AsQ 
 
 ## How to Run
