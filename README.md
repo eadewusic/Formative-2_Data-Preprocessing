@@ -23,10 +23,12 @@ We are working with two real-world datasets that contain overlapping but differe
 ```bash
 git clone https://github.com/eadewusic/Formative-2_Data-Preprocessing.git
 cd Formative-2_Data-Preprocessing
+```
 ### Set up environment
 Install the required libraries
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 ### Run the Notebook
 1. Open the `Formative2_DataPreprocessing_Group18.ipynb` notebook in Jupyter, Google Colab, or another compatible platform.
 2. Execute the cells sequentially to replicate the preprocessing workflow.
