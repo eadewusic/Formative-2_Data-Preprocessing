@@ -45,4 +45,4 @@ The final datasets are saved in the `final_datasets` folder:
 - **Theodora Omunizua**: Conducted data consistency checks, statistical analysis, and feature selection (Part 3).
 
 ## Bonus Challenge
-The bonus challenge was successfully completed. A machine learning model was trained to predict customer spending behavior, and the trained model is saved in the `Models` folder as `trained_model.pkl`.
+The bonus challenge was successfully completed. A machine learning model was trained to predict customer spending behavior, and the trained model is saved in the `model` folder as `bonusmodel.joblib`.
